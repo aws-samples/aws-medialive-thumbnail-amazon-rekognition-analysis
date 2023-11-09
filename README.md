@@ -35,10 +35,10 @@ SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
   > Note: This solution assumes an active MediaLive Channel is running 
 
   - Clone with repo to your local compute system: 
-    - `git clone https://github.com/vaughngit/cdk-ts-medialive-preview-thumbnail-rekognition.git`
+    - `git clone https://github.com/aws-samples/aws-medialive-thumbnail-amazon-rekognition-analysis.git`
 
   - Navigate to the root of the directory:
-    - ` cd cdk-ts-medialive-preview-thumbnail-rekognition\`
+    - ` cd aws-medialive-thumbnail-amazon-rekognition-analysis\`
 
   - Install the project binaries
     - `npm install`
